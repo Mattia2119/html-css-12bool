@@ -1,0 +1,18 @@
+.debug .container, .debug .container-fluid {
+ background-color: blue;
+ min-height: 100px;
+}
+
+.debug .row {
+    background-color: white;
+    min-height: 50px;
+}
+
+.box {
+    border: 1px solid white;
+    min-height: 50px;
+    text-align: center;
+    color: white;
+    background-color: burlywood;
+    padding: 10px;
+}
